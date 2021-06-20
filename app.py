@@ -6,7 +6,7 @@
 
 import base64
 import numpy as np
-from cv2 import *
+from .cv2 import *
 import matplotlib.pyplot as plt
 
 
