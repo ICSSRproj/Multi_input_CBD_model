@@ -52,8 +52,8 @@ CORS(app)
 # In[170]:
 
 @app.route('/')
-def hello_world():
-    return 'CYBER BULLY DETECTION BY MULTI INPUT'
+def man():
+    return "CYBER BULLYING DETECTION BY DEEP LEARNING MULTI INPUT"
 
 @app.route('/check', endpoint='check', methods=['POST'])
 def check():
