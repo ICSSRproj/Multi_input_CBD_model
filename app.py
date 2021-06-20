@@ -54,6 +54,7 @@ CORS(app)
 @app.route('/')
 def man():
     return "CYBER BULLYING DETECTION BY DEEP LEARNING MULTI INPUT"
+
 @app.route('/check', endpoint='check', methods=['POST'])
 def check():
     #here the "user" is used i don't even know why
