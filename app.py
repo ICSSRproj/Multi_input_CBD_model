@@ -7,14 +7,12 @@
 import base64
 import numpy as np
 import cv2
-import matplotlib.pyplot as plt
 
 
 # In[120]:
 
 
 import sys, os, re, csv, codecs, numpy as np, pandas as pd
-import matplotlib.pyplot as plt
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import Model, load_model
