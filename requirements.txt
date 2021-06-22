@@ -7,5 +7,5 @@ keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing==1.1.2
 numpy==1.19.5
 opencv-python-headless==4.5.1.48
-tensorflow-cpu==2.5.0
+tensorflow-cpu
 pandas==1.2.3
